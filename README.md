@@ -1,4 +1,4 @@
-# CSnydewr-Note-taker
+# CSnyder-Note-taker
   
   ## Badges
   ![badge](https://img.shields.io/badge/license-Github,NPM-yellow)<br />
@@ -21,7 +21,8 @@
   install node and express.
 
   ## Usage
-  
+  ![image](https://user-images.githubusercontent.com/95385092/158084771-4abe149e-b38e-4c3d-9ace-6a02b7e57b99.png)
+
 
   ## Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)
