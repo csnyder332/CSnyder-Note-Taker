@@ -1,19 +1,47 @@
-# CSnyder-Note-Taker
+# CSnyder-Note-taker
+  
+  ## Badges
+  ![badge](https://img.shields.io/badge/license-Github,NPM-yellow)<br />
+ 
+  ## Description
+  This is a note taker that uses express.js to store and retrieve notes.
 
-AS A small business owner  
-I WANT to be able to write and save notes  
-SO THAT I can organize my thoughts and keep track of tasks I need to complete  
+  ## Table of Contents
 
-GIVEN a note-taking application  
-WHEN I open the Note Taker  
-THEN I am presented with a landing page with a link to a notes page  
-WHEN I click on the link to the notes page  
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column  
-WHEN I enter a new note title and the note’s text  
-THEN a Save icon appears in the navigation at the top of the page  
-WHEN I click on the Save icon  
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes  
-WHEN I click on an existing note in the list in the left-hand column  
-THEN that note appears in the right-hand column  
-WHEN I click on the Write icon in the navigation at the top of the page  
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column  
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contribute](#contribute)
+  - [Features](#features)
+  - [Tests](#tests)
+  - [questions?](#Questions)
+  - [License](#license)
+  
+  ## Installation
+  install node and express.
+
+  ## Usage
+  ![image](https://user-images.githubusercontent.com/95385092/158084771-4abe149e-b38e-4c3d-9ace-6a02b7e57b99.png)
+
+
+  ## Contribute
+  [Contributor Covenant](https://www.contributor-covenant.org/)
+  Chris Snyder
+
+
+  ## Features
+  Users are able to delete notes that have individual ids.
+
+  ## Tests
+  N/A
+
+  ## Questions?
+  
+  Github: [csnyder332](https://github.com/csnyder332)
+  email: csnyder332@gmail.com
+
+  ## License
+  ![NPM](https://img.shields.io/npm/l/inquirer)
+  
+  
+  
