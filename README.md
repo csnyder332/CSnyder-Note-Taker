@@ -43,5 +43,11 @@
   ## License
   ![NPM](https://img.shields.io/npm/l/inquirer)
   
+  ## Live URL:
+  https://csnyder-note-taker.herokuapp.com/
   
+  ## Sources
+  Node.js 
+  YouTube
+  Github
   
